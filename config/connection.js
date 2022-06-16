@@ -1,6 +1,6 @@
 const Sequelize = require('sequelize');
 
-require('dotenv').config();
+require('dotenv').config('../config.env');
 
 let sequelize;
 
